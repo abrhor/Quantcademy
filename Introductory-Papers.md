@@ -20,10 +20,12 @@ From Day 1, students are instructed in computer programming in Python. It is rec
 Another essential to all statistical learning is knowledge of calculus concepts. While it may be brief, at the very least basic understanding is absolutely necessary. Students will be introduced to derivatives, integrals, and partial derivatives.
 
 The Academy's prerequisite sessions conclude with an introduction to frequency statistics. It is hoped that during the 2 weeks that the topic is discussed, students begin to develop a mindset for statistics. They will at the very least have the prequisities to continue forward.
+
 *Approximate time of section: 3 weeks—1.5 months*
 
 ## Regression & Optimization
 Regression is an incredibly common, but critical asset that all quants have in their toolbox. It is also a critical lesson for future students of time series analysis and machine learning because its various methodologies and applications provide beginners with a great foundation in several fundamental principles and techniques. At this stage, there will be much emphasis on students implementing the techniques in Python. There will be an emphasis on numerical optimization, with a thorough discussion of gradient descent and mini-batch (stochastic) learning. This will be the principle method applied to regression, though students will be introduced to other methods.
+
 *Approximate time of section: 1 month*
 
 ## Introduction to Univariate Time Series Analysis and Statistical Arbitrage
@@ -38,5 +40,7 @@ A time series is defined as a dataset composed of elements that are observed con
 - Introduction to Fourier analysis
 
 Students will be encouraged to apply the techniques learned by practicing analysis of real financial data. At this stage, it is hoped that students have begun to acquire the mindset and intuition of a real quant. At the end of the section, students will be given the option to continue with machine learning or begin their own research project/trading strategy with the guidance of the Academy. Possible topics for research include volatility clustering/modeling, applications of financial time series analysis, etc.
+
+*Approximate time of section: 2 months*
 
 ## Introduction Supervised Machine Learning
