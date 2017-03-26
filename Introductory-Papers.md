@@ -4,7 +4,11 @@ The 21st century has changed Wall St. Trading and finance is no longer based on 
 
 # Mission
 
-QuantCademy is dedicated to training high school quants and not only preparing them for the world of algo trading, but quickly introducing them to it through assistance in research and networking. We have a "head first" mindset: For students to succeed in the high pace workplace of Wall St. at such a young age, they must get their hands dirty with everything that a real quant does. Our curriculum is thus designed to push students abilities and knowledge as close as it can get to that of a professional. The Academy's program is indeed ambitious, and relies on students' self-motivation to succeed. However, it is also interactive, and the structure of our sessions are quite adverse from regular classes in a way that (a) mimics the cohesive culture at quantitative trading firms and (b)keeps students engaged. By March, students have the ability to research their own trading strategies and use their knowledge and portfolio of work to build their own network of industry contacts. The end result in June is a quant with the academic training necessary to break into the industry.
+QuantCademy is dedicated to training high school quants and not only preparing them for the world of algo trading, but quickly introducing them to it through assistance in research and networking. We have a "head first" mindset: For students to succeed in the high pace workplace of Wall St. at such a young age, they must get their hands dirty with everything that a real quant does. Our curriculum is thus designed to push students abilities and knowledge as close as it can get to that of a professional. 
+
+The Academy's program is indeed ambitious, and relies on students' self-motivation to succeed. However, it is also interactive, and the structure of our sessions are quite adverse from regular classes in a way that (a) mimics the cohesive culture at quantitative trading firms and (b)keeps students engaged.
+
+By March, students have the ability to research their own trading strategies and use their knowledge and portfolio of work to build their own network of industry contacts. The end result is a quant with the academic training necessary to break into the industry.
 
 # Talks from Industry Professionals
 
