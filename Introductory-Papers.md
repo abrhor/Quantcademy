@@ -8,7 +8,7 @@ QuantCademy is dedicated to training high school quants and not only preparing t
 
 The Academy's program is indeed ambitious, and relies on students' self-motivation to succeed. However, it is also interactive, and the structure of our sessions are quite adverse from regular classes in a way that (a) mimics the cohesive culture at quantitative trading firms and (b) keeps students engaged.
 
-By March, students have the ability to research their own trading strategies and use their knowledge and portfolio of work to build their own network of industry contacts. The end result is a quant with the academic training necessary to break into the industry.
+By April, students have the ability to begin researching their own trading strategies and use their knowledge and portfolio of work to build their own network of industry contacts. The end result is a quant with the academic training necessary to break into the industry.
 
 # Talks from Industry Professionals
 
@@ -68,6 +68,6 @@ Machine learning, often described as a discipline of artificial intelligence, is
 
 There will be a particular emphasis on final topic of artifical neural networks, primarily due to its increasing prominence in algo trading. 
 
-*Approximate time of section: 3 months*
+*Approximate time of section: 2.5 months*
 
 ## Final Phase: Independent Research
