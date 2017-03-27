@@ -78,4 +78,4 @@ There will be a particular emphasis on the final topic of artifical neural netwo
 ### Final Phase: Independent Research
 Students must now apply their knowledge. Over the past several months, they have acquired foundations in mathematical and computational finance, and now they must take the next step. This is when they "get their hands dirty" by identifying and then investigating a possible strategy. The Academy will of course be there to guide them at every step, though the struggle of individual work and investigation will be one of the greatest benefits of the experience. Furthermore, the rewards of the research experience will be impressive: Among them are an intrinsic understanding of the mechanics of quantitative trading strategies, as well as unique research that can be shown to contacts and entered into science fairs and algorithmic trading competitions.
 
-*Will occupy the remainder of the year's sessions*
+*This phase will occupy the remainder of the year's sessions*
