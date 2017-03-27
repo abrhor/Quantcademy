@@ -3,7 +3,7 @@
 
 The foundation of success in modern finance lies in the capability to create mathematically thoughtful and technologically innovative automated trading strategies. To do so requires a significant depth of knowledge in technical subjects including math and statistics, resulting in the majority of Wall St. recruits now being math and physics majors. Unfortunately, most undergraduate finance and economic majors are ill-prepared for what awaits them at the trading desk, and even more so with high-schoolers.
 
-My name is Abraham Horowitz. I have long had a dream to be a trader. Since I entered Bergen Tech, I realized that to compete on Wall St., I need to do better than reading charts. I need to be a quant. I have thus spent an enormous quantity of time trying to acquire the academic savvy to create algorithmic trading strategies. Fortunately, my efforts have paid off and I am currently involved in researching and writing my own strategy. 
+I have long had a dream to be a trader. Since I entered Bergen Tech, I realized that to compete on Wall St., I need to do better than reading charts. I need to be a quant. I have thus spent an enormous quantity of time trying to acquire the academic savvy to create algorithmic trading strategies. Fortunately, my efforts have paid off and I am currently involved in researching and writing my own strategy. 
 
 Most other teens that want to trade either (a) do not realize what it takes or (b) do not how to acquire the necessary skills. While there are exceptions and there are some qualitative traders (albeit becoming ever more rare), it is unlikely that they will ever be able to achieve their dream. I am starting QuantCademy on a mission to help them.
 
