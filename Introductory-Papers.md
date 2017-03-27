@@ -71,8 +71,9 @@ Machine learning, often described as a discipline of artificial intelligence, is
 - Recurrent neural networks
 - Learning with boosting
 
-There will be a particular emphasis on final topic of artifical neural networks, primarily due to its increasing prominence in algo trading. 
+There will be a particular emphasis on the final topic of artifical neural networks, primarily due to its increasing prominence in algo trading. 
 
 *Approximate time of section: 2.5 months*
 
 ### Final Phase: Independent Research
+Students must now apply their knowledge. Over the past several months, they should have began to develop the mindset o
