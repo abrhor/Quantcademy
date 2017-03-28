@@ -14,6 +14,7 @@ The Academy's program is indeed ambitious, and relies on students' self-motivati
 By April, students have the ability to begin researching their own trading strategies and use their knowledge and portfolio of work to build their own network of industry contacts. The end result is a quant with the academic training necessary to break into the industry.
 
 
+
 ## Talks from Industry Professionals
 We guarantee that once per month, the Academy will invite a quantitative finance professional to speak to our students, either in person or via digital communication. Some weeks this may mean a Q&A with a quant trader or analyst, while other weeks may be a talk from a professor of financial engineering. The visitations have several key benefits that makes them central to the Academy's function:
 - Hear feedback from professionals on their ideas and studies
