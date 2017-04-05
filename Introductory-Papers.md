@@ -68,7 +68,7 @@ Machine learning, often described as a discipline of artificial intelligence, is
 - Decision trees & Random forests
 - Feedforward neural networks
 - Recurrent neural networks
-- Learning with boosting
+- Ensemble methods
 
 There will be a particular emphasis on the final topic of artifical neural networks, primarily due to its increasing prominence in algo trading. 
 
