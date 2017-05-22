@@ -1,4 +1,4 @@
-# Quantcademy
+# Quantcademy — Coming to BT in Fall 2017
 ## Background & the Need for Quantcademy
 The foundation of success in modern finance lies in the capability to create mathematically thoughtful and technologically innovative automated trading strategies. To do so requires a significant depth of knowledge in technical subjects including math and statistics, resulting in the majority of Wall St. recruits now being math and physics majors. Unfortunately, most undergraduate finance and economic majors are ill-prepared for what awaits them at the trading desk, and even more so with high-schoolers.
 
